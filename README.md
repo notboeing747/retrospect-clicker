@@ -1,0 +1,2 @@
+# retrospect-clicker
+python autoclicker
