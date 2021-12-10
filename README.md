@@ -1,2 +1,2 @@
 # retrospect-clicker
-this is a scuffed python autoclicker made by my friend. Messy code, i barely know python so i cba learning it and cleaning the code. Feel free to clean some of the code.
+this is a scuffed python autoclicker and click player made by my friend. Messy code, i barely know python so i cba cleaning the code on my own. Feel free to help clean some of the code.
