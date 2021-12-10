@@ -1,0 +1,7 @@
+[config]
+fishing_rod_macro_key = f
+fishing_rod_slot = 2
+fishing_rod_min_clickdelay = 120
+fishing_rod_max_clickdelay = 280
+fishing_rod_slot_switch_min_delay = 60
+fishing_rod_slot_switch_max_delay = 140
